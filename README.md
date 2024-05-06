@@ -37,6 +37,8 @@ Please note: These are guidlines and not set in stone rules and we recognise tha
 ### terraform
 1. Set up cloud infrastructure using terraform
 
+### lambda
+
 ### set up pipeline components
 #### S3
 1. X
@@ -75,12 +77,6 @@ Please note: These are guidlines and not set in stone rules and we recognise tha
 5. idempotency
 6. data privacy and PII data
 7. cost considerations
-
-## compute
-### ec2
-1. how to use ec2 for data pipelines
-### lambda / serverless
-1. how to use lambda / serverless for data pipelines
 
 ## extraction & ingestion
 ### from a database
